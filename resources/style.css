@@ -1,0 +1,7 @@
+body{
+    color: white;
+    font-family: roboto, sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(26,26,27,1) 30%, rgba(0,0,0,1) 100%);
+}
+
